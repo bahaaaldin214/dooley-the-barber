@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bahaaaldin214.github.io/dooley-the-barber/sitemap.xml
